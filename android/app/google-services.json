@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "379073824474",
+    "project_id": "clinic-atla-4e6fb",
+    "storage_bucket": "clinic-atla-4e6fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379073824474:android:49071283c2c7c71f96c7e3",
+        "android_client_info": {
+          "package_name": "com.divyeshatla.radhika_dental_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379073824474-c499qii2a91cjt1q16rn3dlndqu291al.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.divyeshatla.radhika_dental_app",
+            "certificate_hash": "8f06f8d7c1e63c2cc85cf0e089575cea8bdd4a0a"
+          }
+        },
+        {
+          "client_id": "379073824474-mqmc9e4i1ti0u6rtdvh4gh8qivdhruus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj0HKKB42mVsWDKxiLwsKljQuuGo9OvCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379073824474-mqmc9e4i1ti0u6rtdvh4gh8qivdhruus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

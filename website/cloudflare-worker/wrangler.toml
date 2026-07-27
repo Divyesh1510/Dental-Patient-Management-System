@@ -1,0 +1,6 @@
+name = "dental-sms-api"
+main = "src/index.js"
+compatibility_date = "2023-12-01"
+
+# We will store secrets securely via the Cloudflare Dashboard or CLI
+# Do not put your actual API key here.
